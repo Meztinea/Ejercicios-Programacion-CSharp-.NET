@@ -1,0 +1,28 @@
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos A2\OlimpiadasInternacionales\bin\Debug\net8.0\OlimpiadasInternacionales.exe
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos A2\OlimpiadasInternacionales\bin\Debug\net8.0\OlimpiadasInternacionales.deps.json
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos A2\OlimpiadasInternacionales\bin\Debug\net8.0\OlimpiadasInternacionales.runtimeconfig.json
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos A2\OlimpiadasInternacionales\bin\Debug\net8.0\OlimpiadasInternacionales.dll
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos A2\OlimpiadasInternacionales\bin\Debug\net8.0\OlimpiadasInternacionales.pdb
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos A2\OlimpiadasInternacionales\obj\Debug\net8.0\OlimpiadasInternacionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos A2\OlimpiadasInternacionales\obj\Debug\net8.0\OlimpiadasInternacionales.AssemblyInfoInputs.cache
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos A2\OlimpiadasInternacionales\obj\Debug\net8.0\OlimpiadasInternacionales.AssemblyInfo.cs
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos A2\OlimpiadasInternacionales\obj\Debug\net8.0\OlimpiadasInternacionales.csproj.CoreCompileInputs.cache
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos A2\OlimpiadasInternacionales\obj\Debug\net8.0\OlimpiadasInternacionales.dll
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos A2\OlimpiadasInternacionales\obj\Debug\net8.0\refint\OlimpiadasInternacionales.dll
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos A2\OlimpiadasInternacionales\obj\Debug\net8.0\OlimpiadasInternacionales.pdb
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos A2\OlimpiadasInternacionales\obj\Debug\net8.0\OlimpiadasInternacionales.genruntimeconfig.cache
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos A2\OlimpiadasInternacionales\obj\Debug\net8.0\ref\OlimpiadasInternacionales.dll
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 3\Olimpiadas Internacionales\bin\Debug\net8.0\OlimpiadasInternacionales.exe
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 3\Olimpiadas Internacionales\bin\Debug\net8.0\OlimpiadasInternacionales.deps.json
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 3\Olimpiadas Internacionales\bin\Debug\net8.0\OlimpiadasInternacionales.runtimeconfig.json
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 3\Olimpiadas Internacionales\bin\Debug\net8.0\OlimpiadasInternacionales.dll
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 3\Olimpiadas Internacionales\bin\Debug\net8.0\OlimpiadasInternacionales.pdb
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 3\Olimpiadas Internacionales\obj\Debug\net8.0\OlimpiadasInternacionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 3\Olimpiadas Internacionales\obj\Debug\net8.0\OlimpiadasInternacionales.AssemblyInfoInputs.cache
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 3\Olimpiadas Internacionales\obj\Debug\net8.0\OlimpiadasInternacionales.AssemblyInfo.cs
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 3\Olimpiadas Internacionales\obj\Debug\net8.0\OlimpiadasInternacionales.csproj.CoreCompileInputs.cache
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 3\Olimpiadas Internacionales\obj\Debug\net8.0\OlimpiadasInternacionales.dll
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 3\Olimpiadas Internacionales\obj\Debug\net8.0\refint\OlimpiadasInternacionales.dll
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 3\Olimpiadas Internacionales\obj\Debug\net8.0\OlimpiadasInternacionales.pdb
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 3\Olimpiadas Internacionales\obj\Debug\net8.0\OlimpiadasInternacionales.genruntimeconfig.cache
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 3\Olimpiadas Internacionales\obj\Debug\net8.0\ref\OlimpiadasInternacionales.dll

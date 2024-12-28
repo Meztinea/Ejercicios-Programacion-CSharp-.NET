@@ -1,0 +1,35 @@
+Ejercicio 3 - Olimpiadas Internacionales
+
+El equipo organizador de las Olimpiadas Internacionales desea una aplicación para ayudar a los 
+jueces a determinar los ganadores y posiciones de los atletas en las competencias de atletismo. La 
+aplicación registrará a los participantes, les asignará una competencia, registrará sus tiempos, 
+determinará al ganador de la competencia.
+
+Registro de Usuarios:
+La aplicación registrará 2 participantes con la siguiente información:
+
+- Nombre y apellido		- String
+- No. participante		- Entero
+- Pais natal 			- String
+- Edad 				- Entero
+- Continente 			- String 
+
+Competencias:
+
+Las competencias disponibles son:
+1. 400 metros planos
+2. Carreras de relevos en 800 metros
+3. 100 metros con obstáculos
+4. Caminata de 150 metros
+5. 200 metros planos
+
+Métodos que no devuelven parámetros a programar:
+
+1. Asignación de competencias: Asignará una competencia de forma aleatoria.
+2. Registro de tiempos: Se solicitará el tiempo de cada participante en la competencia asignada 
+(formato: 9.2 segundos).
+3. Clasificación de ganador: Se determinarán el mejor tiempo.
+4. Cálculo de velocidad: Se calculará la velocidad de cada participante, usando la fórmula V = D/T, 
+donde `D` es la distancia de la prueba y `T` el tiempo registrado.
+5. Ganador de la final: Se mostrará un mensaje con el nombre y país del participante con la mayor 
+velocidad, felicitándolo por su victoria
