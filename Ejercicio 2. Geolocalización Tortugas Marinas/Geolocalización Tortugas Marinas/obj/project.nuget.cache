@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aphO12+zQb8nvY4rSDxwk0W8dJoQG46F0OXdgYjXAzUuXvjomPrjsTE8dHvXnyPeIbFGyhUX4SdYsS+rLJmIAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Raquel Martínez\\Documents\\1 - UnADM\\Bloque\\1. Programación Net 1\\Unidad 1\\_Archivos EA\\GeolocalizacionTortugasMarinas\\GeolocalizacionTortugasMarinas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raquel Martínez\\.nuget\\packages\\geolocation\\1.2.1\\geolocation.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

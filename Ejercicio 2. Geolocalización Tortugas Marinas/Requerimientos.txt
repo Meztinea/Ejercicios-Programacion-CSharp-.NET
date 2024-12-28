@@ -1,0 +1,40 @@
+El equipo de investigación en exploración submarina necesita desarrollar un programa de 
+seguimiento para analizar los patrones de migración de las tortugas marinas verdes (Chelonia 
+mydas) en el océano Atlántico. Como desarrollador contratado para este proyecto, se te solicita 
+crear un programa de consola utilizando C# y la biblioteca Geolocation.
+
+
+Requerimientos del programa:
+
+1. Ingreso de Coordenadas:
+ - El programa debe permitir ingresar las coordenadas de latitud y longitud de diferentes 
+ubicaciones a lo largo de la ruta de migración de las tortugas marinas.
+ 
+2. Registro de Datos de Seguimiento:
+ - Se deben registrar los datos de seguimiento durante 3 días consecutivos.
+ - Para cada día, se solicitará la coordenada de inicio del recorrido junto con la fecha y hora de 
+este registro, y la coordenada de fin del recorrido con su respectiva fecha y hora.
+
+3. Cálculos y Visualización:
+ - Para cada uno de los 3 registros de cada día (inicio y fin del recorrido), el programa calculará 
+y mostrará en pantalla la distancia en kilómetros y la dirección cardinal entre la ubicación inicial 
+y la ubicación final.
+ - Utilizando la información de las distancias recorridas y el tiempo transcurrido entre los 
+registros, el programa determinará la velocidad promedio de nado de las tortugas marinas.
+
+4. Generación de Informe:
+ - El programa generará un informe detallado que incluirá la ruta de migración seguida por las 
+tortugas durante los 3 días de seguimiento.
+ - Para cada día, se mostrará la distancia total recorrida, la velocidad promedio de nado y la 
+ubicación de inicio y fin de la jornada.
+ - El informe también incluirá la distancia total recorrida en los 3 días y la velocidad promedio 
+de nado de toda la ruta.
+
+Para realizar los cálculos de distancia y dirección cardinal, podrás utilizar la biblioteca 
+Geolocation.
+
+El programa de seguimiento de tortugas marinas permitirá analizar los patrones de nado, 
+identificar áreas cruciales y obtener estadísticas sobre la velocidad promedio de nado de las 
+especies estudiadas. Esto proporcionará datos valiosos para comprender mejor los procesos 
+de migración de las tortugas marinas y contribuir al estudio y conservación de estas especies 
+en el océano Atlántico.

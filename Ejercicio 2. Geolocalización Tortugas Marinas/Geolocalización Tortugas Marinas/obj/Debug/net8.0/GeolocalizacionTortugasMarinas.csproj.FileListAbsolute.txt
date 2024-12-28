@@ -1,0 +1,17 @@
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos EA\GeolocalizacionTortugasMarinas\bin\Debug\net8.0\GeolocalizacionTortugasMarinas.exe
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos EA\GeolocalizacionTortugasMarinas\bin\Debug\net8.0\GeolocalizacionTortugasMarinas.deps.json
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos EA\GeolocalizacionTortugasMarinas\bin\Debug\net8.0\GeolocalizacionTortugasMarinas.runtimeconfig.json
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos EA\GeolocalizacionTortugasMarinas\bin\Debug\net8.0\GeolocalizacionTortugasMarinas.dll
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos EA\GeolocalizacionTortugasMarinas\bin\Debug\net8.0\GeolocalizacionTortugasMarinas.pdb
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos EA\GeolocalizacionTortugasMarinas\bin\Debug\net8.0\Geolocation.dll
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos EA\GeolocalizacionTortugasMarinas\obj\Debug\net8.0\GeolocalizacionTortugasMarinas.csproj.AssemblyReference.cache
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos EA\GeolocalizacionTortugasMarinas\obj\Debug\net8.0\GeolocalizacionTortugasMarinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos EA\GeolocalizacionTortugasMarinas\obj\Debug\net8.0\GeolocalizacionTortugasMarinas.AssemblyInfoInputs.cache
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos EA\GeolocalizacionTortugasMarinas\obj\Debug\net8.0\GeolocalizacionTortugasMarinas.AssemblyInfo.cs
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos EA\GeolocalizacionTortugasMarinas\obj\Debug\net8.0\GeolocalizacionTortugasMarinas.csproj.CoreCompileInputs.cache
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos EA\GeolocalizacionTortugasMarinas\obj\Debug\net8.0\GeolocalizacionTortugasMarinas.csproj.CopyComplete
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos EA\GeolocalizacionTortugasMarinas\obj\Debug\net8.0\GeolocalizacionTortugasMarinas.dll
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos EA\GeolocalizacionTortugasMarinas\obj\Debug\net8.0\refint\GeolocalizacionTortugasMarinas.dll
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos EA\GeolocalizacionTortugasMarinas\obj\Debug\net8.0\GeolocalizacionTortugasMarinas.pdb
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos EA\GeolocalizacionTortugasMarinas\obj\Debug\net8.0\GeolocalizacionTortugasMarinas.genruntimeconfig.cache
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos EA\GeolocalizacionTortugasMarinas\obj\Debug\net8.0\ref\GeolocalizacionTortugasMarinas.dll
