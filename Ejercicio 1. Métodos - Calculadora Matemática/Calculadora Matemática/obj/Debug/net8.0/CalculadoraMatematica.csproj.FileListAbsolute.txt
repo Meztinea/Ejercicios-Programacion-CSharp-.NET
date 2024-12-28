@@ -1,0 +1,14 @@
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos A3\CalculadoraMatematica\bin\Debug\net8.0\CalculadoraMatematica.exe
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos A3\CalculadoraMatematica\bin\Debug\net8.0\CalculadoraMatematica.deps.json
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos A3\CalculadoraMatematica\bin\Debug\net8.0\CalculadoraMatematica.runtimeconfig.json
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos A3\CalculadoraMatematica\bin\Debug\net8.0\CalculadoraMatematica.dll
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos A3\CalculadoraMatematica\bin\Debug\net8.0\CalculadoraMatematica.pdb
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos A3\CalculadoraMatematica\obj\Debug\net8.0\CalculadoraMatematica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos A3\CalculadoraMatematica\obj\Debug\net8.0\CalculadoraMatematica.AssemblyInfoInputs.cache
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos A3\CalculadoraMatematica\obj\Debug\net8.0\CalculadoraMatematica.AssemblyInfo.cs
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos A3\CalculadoraMatematica\obj\Debug\net8.0\CalculadoraMatematica.csproj.CoreCompileInputs.cache
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos A3\CalculadoraMatematica\obj\Debug\net8.0\CalculadoraMatematica.dll
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos A3\CalculadoraMatematica\obj\Debug\net8.0\refint\CalculadoraMatematica.dll
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos A3\CalculadoraMatematica\obj\Debug\net8.0\CalculadoraMatematica.pdb
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos A3\CalculadoraMatematica\obj\Debug\net8.0\CalculadoraMatematica.genruntimeconfig.cache
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 1\_Archivos A3\CalculadoraMatematica\obj\Debug\net8.0\ref\CalculadoraMatematica.dll

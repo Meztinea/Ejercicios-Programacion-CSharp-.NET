@@ -1,0 +1,19 @@
+Ejercicio 1 - Calculadora Matemática
+
+La empresa MathApp te ha contratado como desarrollador de software y te ha asignado al proyecto de 
+desarrollo para una aplicación llamada CalculadoraMatematica. Como parte del curso de inducción, te 
+proporciona la siguiente guía para que te familiarices con el proceso de desarrollo de la empresa y realices 
+tu primera contribución al proyecto CalculadoraMatematica. Tu tarea consiste en solicitar información al 
+usuario y realizar cálculos matemáticos utilizando una biblioteca específica, para luego mostrar dichos 
+cálculos en pantalla.
+
+
+Escribe el código para solicitar información al usuario y realizar los siguientes cálculos:
+
+-Solicitar radio del círculo en centímetros
+-Solicitar longitud de los catetos de un triángulo en centímetros
+-Solicitar año de nacimiento del usuario
+-Calcular edad del usuario utilizando métodos de la clase DateTime
+-Calcular el área del círculo utilizando la clase MathCalculator
+-Calcular la hipotenusa utilizando la clase MathCalculator
+
