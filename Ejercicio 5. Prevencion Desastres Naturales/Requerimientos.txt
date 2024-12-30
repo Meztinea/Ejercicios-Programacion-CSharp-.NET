@@ -1,0 +1,76 @@
+En respuesta a la creciente frecuencia de desastres naturales, se ha propuesto el desarrollo de 
+una plataforma de análisis de datos para la prevención y gestión eficiente de estos eventos. 
+Como desarrollador de software eres contratado para implementar una solución. Su 
+funcionamiento general consistirá en mostrar dos opciones al usuario, capturar datos y realizar 
+cálculos. El usuario podrá capturar datos que describan las características de una zona física
+(Velocidad de viento, cantidad de lluvia, características del suelo). Posteriormente, podrá 
+calcular el riesgo de inundación e identificar si se trata de una zona sísmica.
+
+Requerimientos del Sistema:
+
+Programa los siguientes métodos sin Devolución de Parámetros, mismos que te permitirán 
+recopilar información crucial sobre el clima y el suelo a través de la consola.
+
+- `RecopilarDatosClima()`: Método para leer datos meteorológicos proporcionados por el 
+usuario. Los datos recopilados serán:
+• Velocidad del Viento: [0 m/s, 30 m/s] (rango típico).
+• Cantidad de Lluvia: [0 mm, 100 mm] (rango típico).
+
+
+- `RecopilarDatosSuelo()`: Método para obtener información sobre la composición del suelo. Los 
+datos recopilados serán:
+• Porcentaje de Arcilla: [0%, 50%].
+• Porcentaje de Arena: [0%, 50%].
+• Porcentaje de Otros Componentes: [0%, 50%].
+ 
+
+Métodos que Devuelven Parámetros:
+Implementar los siguientes métodos para analizar los datos recopilados y proporcionar 
+resultados.
+
+- `CalcularRiesgoInundacion()`: Método que devuelve el riesgo de inundación basado en datos 
+meteorológicos y de suelo.
+Entradas:
+Datos recopilados por RecopilarDatosClima() (velocidad del viento, cantidad de 
+lluvia).
+Datos recopilados por RecopilarDatosSuelo() (composición del suelo).
+
+Proceso:
+i. Verificar que haya datos suficientes para el cálculo.
+ii.Normalizar la composición del suelo para asegurar que la suma de los 
+porcentajes sea igual a 100%.
+iii. Calcular un factor de corrección basado en la composición del suelo:
+Factor de Corrección = 1 + (Porcentaje de Arcilla * 0.1) + (Porcentaje 
+de Arena * 0.05) + (Porcentaje de Otros Componentes * 0.07).
+iv. Aplicar el siguiente algoritmo de cálculo del riesgo de inundación:
+Riesgo de Inundación = (Velocidad del Viento * Cantidad de Lluvia) /Factor de Corrección.
+
+Salida:
+Devolver un valor numérico que represente el riesgo de inundación.
+
+- `IdentificarZonasSismicamenteActivas()`: Método que devuelve la información sobre zonas 
+sísmicamente activas según datos del suelo.
+
+Entrada:
+Datos recopilados por RecopilarDatosSuelo() (composición del suelo).
+
+Proceso:
+i. Verificar que haya datos suficientes para la identificación.
+ii.Definir un umbral para clasificar zonas como sísmicamente activas:
+Umbral Sísmico = 0.7.
+iii. Calcular un factor de actividad sísmica basado en la composición del 
+suelo:
+Factor de Actividad Sísmica = (Porcentaje de Arcilla * 0.2) + 
+(Porcentaje de Arena * 0.1) + (Porcentaje de Otros Componentes * 
+0.05).
+iv. Si el factor supera el umbral, agregar la ubicación a la lista de zonas 
+activas.
+
+Salida:
+Devolver si la ubicación es identificada como zona sísmicamente activa.
+
+
+Programar un menú interactivo en el método principal "Main" para:
+- Recopilar datos
+- Analizar datos
+- Salir

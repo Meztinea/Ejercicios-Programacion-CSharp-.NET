@@ -1,0 +1,14 @@
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos EA\PrevencionDesastresNaturales\bin\Debug\net8.0\PrevencionDesastresNaturales.exe
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos EA\PrevencionDesastresNaturales\bin\Debug\net8.0\PrevencionDesastresNaturales.deps.json
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos EA\PrevencionDesastresNaturales\bin\Debug\net8.0\PrevencionDesastresNaturales.runtimeconfig.json
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos EA\PrevencionDesastresNaturales\bin\Debug\net8.0\PrevencionDesastresNaturales.dll
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos EA\PrevencionDesastresNaturales\bin\Debug\net8.0\PrevencionDesastresNaturales.pdb
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos EA\PrevencionDesastresNaturales\obj\Debug\net8.0\PrevencionDesastresNaturales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos EA\PrevencionDesastresNaturales\obj\Debug\net8.0\PrevencionDesastresNaturales.AssemblyInfoInputs.cache
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos EA\PrevencionDesastresNaturales\obj\Debug\net8.0\PrevencionDesastresNaturales.AssemblyInfo.cs
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos EA\PrevencionDesastresNaturales\obj\Debug\net8.0\PrevencionDesastresNaturales.csproj.CoreCompileInputs.cache
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos EA\PrevencionDesastresNaturales\obj\Debug\net8.0\PrevencionDesastresNaturales.dll
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos EA\PrevencionDesastresNaturales\obj\Debug\net8.0\refint\PrevencionDesastresNaturales.dll
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos EA\PrevencionDesastresNaturales\obj\Debug\net8.0\PrevencionDesastresNaturales.pdb
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos EA\PrevencionDesastresNaturales\obj\Debug\net8.0\PrevencionDesastresNaturales.genruntimeconfig.cache
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos EA\PrevencionDesastresNaturales\obj\Debug\net8.0\ref\PrevencionDesastresNaturales.dll
