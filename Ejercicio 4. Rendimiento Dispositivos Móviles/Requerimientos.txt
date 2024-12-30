@@ -1,0 +1,66 @@
+Ejercicio 4 - Rendimiento de Dispositivos Móviles
+
+Samsung te ha encomendado la creación de una aplicación de consola en C# para evaluar el 
+rendimiento de sus dispositivos móviles de manera integral y precisa. La aplicación analizará tres 
+aspectos clave: velocidad de procesamiento, capacidad de almacenamiento y rendimiento de la 
+batería, utilizando fórmulas y cálculos coherentes y relevantes para la industria.
+Aspectos a Evaluar:
+
+
+1. Velocidad de Procesamiento:
+ - Se calculará el Tiempo de Procesamiento por Megabyte (TPB) utilizando la fórmula: 
+ TPB = Tiempo de apertura de la app (segundos) / Tamaño de la app (megabytes)
+ - El TPB se comparará con la siguiente tabla para obtener la evaluación:
+
+Rengo TPB (seg/MB)		Evaluación
+0 a 1				Excelente
+1.1 a 2 			Bueno
+2.1 a 3 			Aceptable
+3.1 a 5				Regular
+> 5.1				Deficiente
+
+2. Capacidad de Almacenamiento:
+ - Se calculará el Índice de Almacenamiento Eficiente (IE) utilizando la fórmula: 
+ IE = TPB * Tamaño de almacenamiento común (gigabytes)
+ - El IE se comparará con la siguiente tabla para obtener la evaluación:
+
+Rango IE (segundos)		Evaluación
+0 a 100				Excelente
+101 a 200			Bueno
+201 a 300			Aceptable
+301 a 400 			Regular
+> 401				Deficiente
+
+3. Rendimiento de la Batería: 
+ - Se calculará la Autonomía Estimada por Aplicación (AEA) utilizando la fórmula: 
+ AEA = IE / Promedio de aplicaciones abiertas
+ - La AEA se comparará con la siguiente tabla para obtener la evaluación:
+
+Rango AEA (seg/app)		Evaluación
+> 40				Excelente
+30 a 39				Bueno
+20 a 29 			Aceptable
+10 a 19				Regular
+< 9				Deficiente
+
+Datos a Ingresar por el Usuario:
+
+Apps a Evaluar:
+- Tamaño en MB (entre 5 y 40 MB)
+- Tiempo de apertura de la app (entre 1 y 5 segundos)
+
+Almacenamiento de Datos:
+- Tamaño de almacenamiento común (entre 16 y 128 GB)
+
+Rendimiento de la Batería:
+- Promedio de aplicaciones abiertas (entre 1 y 15)
+
+Desarrollo de Métodos:
+1. Método para calcular el TPB: Recibe el tamaño y tiempo de apertura de la app, y calcula el TPB.
+2. Método para calcular el IE: Recibe el TPB y el tamaño de almacenamiento común, y calcula el IE.
+3. Método para calcular la AEA: Recibe el IE y el promedio de apps abiertas, y calcula la AEA.
+4. Método para mostrar resultados: Muestra en pantalla el TPB, IE, AEA y la evaluación para cada 
+aspecto.
+
+
+

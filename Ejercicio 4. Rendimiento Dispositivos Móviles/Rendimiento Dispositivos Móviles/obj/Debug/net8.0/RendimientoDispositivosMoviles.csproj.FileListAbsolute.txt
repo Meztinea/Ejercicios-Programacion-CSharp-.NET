@@ -1,0 +1,14 @@
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos A3\RendimientoDispositivosMoviles\bin\Debug\net8.0\RendimientoDispositivosMoviles.exe
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos A3\RendimientoDispositivosMoviles\bin\Debug\net8.0\RendimientoDispositivosMoviles.deps.json
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos A3\RendimientoDispositivosMoviles\bin\Debug\net8.0\RendimientoDispositivosMoviles.runtimeconfig.json
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos A3\RendimientoDispositivosMoviles\bin\Debug\net8.0\RendimientoDispositivosMoviles.dll
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos A3\RendimientoDispositivosMoviles\bin\Debug\net8.0\RendimientoDispositivosMoviles.pdb
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos A3\RendimientoDispositivosMoviles\obj\Debug\net8.0\RendimientoDispositivosMoviles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos A3\RendimientoDispositivosMoviles\obj\Debug\net8.0\RendimientoDispositivosMoviles.AssemblyInfoInputs.cache
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos A3\RendimientoDispositivosMoviles\obj\Debug\net8.0\RendimientoDispositivosMoviles.AssemblyInfo.cs
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos A3\RendimientoDispositivosMoviles\obj\Debug\net8.0\RendimientoDispositivosMoviles.csproj.CoreCompileInputs.cache
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos A3\RendimientoDispositivosMoviles\obj\Debug\net8.0\RendimientoDispositivosMoviles.dll
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos A3\RendimientoDispositivosMoviles\obj\Debug\net8.0\refint\RendimientoDispositivosMoviles.dll
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos A3\RendimientoDispositivosMoviles\obj\Debug\net8.0\RendimientoDispositivosMoviles.pdb
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos A3\RendimientoDispositivosMoviles\obj\Debug\net8.0\RendimientoDispositivosMoviles.genruntimeconfig.cache
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 2\_Archivos A3\RendimientoDispositivosMoviles\obj\Debug\net8.0\ref\RendimientoDispositivosMoviles.dll
