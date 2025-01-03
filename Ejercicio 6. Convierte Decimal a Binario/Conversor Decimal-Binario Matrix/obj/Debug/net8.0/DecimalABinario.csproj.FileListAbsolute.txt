@@ -1,0 +1,29 @@
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos A3\DecimalABinario\bin\Debug\net8.0\DecimalABinario.exe
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos A3\DecimalABinario\bin\Debug\net8.0\DecimalABinario.deps.json
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos A3\DecimalABinario\bin\Debug\net8.0\DecimalABinario.runtimeconfig.json
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos A3\DecimalABinario\bin\Debug\net8.0\DecimalABinario.dll
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos A3\DecimalABinario\bin\Debug\net8.0\DecimalABinario.pdb
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos A3\DecimalABinario\obj\Debug\net8.0\DecimalABinario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos A3\DecimalABinario\obj\Debug\net8.0\DecimalABinario.AssemblyInfoInputs.cache
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos A3\DecimalABinario\obj\Debug\net8.0\DecimalABinario.AssemblyInfo.cs
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos A3\DecimalABinario\obj\Debug\net8.0\DecimalABinario.csproj.CoreCompileInputs.cache
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos A3\DecimalABinario\obj\Debug\net8.0\DecimalABinario.dll
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos A3\DecimalABinario\obj\Debug\net8.0\refint\DecimalABinario.dll
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos A3\DecimalABinario\obj\Debug\net8.0\DecimalABinario.pdb
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos A3\DecimalABinario\obj\Debug\net8.0\DecimalABinario.genruntimeconfig.cache
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos A3\DecimalABinario\obj\Debug\net8.0\ref\DecimalABinario.dll
+C:\Users\Raquel Martínez\Documents\Programación Java\1. Ejercicios C# GitHub\Ejercicio 6\Nueva carpeta\bin\Debug\net8.0\DecimalABinario.exe
+C:\Users\Raquel Martínez\Documents\Programación Java\1. Ejercicios C# GitHub\Ejercicio 6\Nueva carpeta\bin\Debug\net8.0\DecimalABinario.deps.json
+C:\Users\Raquel Martínez\Documents\Programación Java\1. Ejercicios C# GitHub\Ejercicio 6\Nueva carpeta\bin\Debug\net8.0\DecimalABinario.runtimeconfig.json
+C:\Users\Raquel Martínez\Documents\Programación Java\1. Ejercicios C# GitHub\Ejercicio 6\Nueva carpeta\bin\Debug\net8.0\DecimalABinario.dll
+C:\Users\Raquel Martínez\Documents\Programación Java\1. Ejercicios C# GitHub\Ejercicio 6\Nueva carpeta\bin\Debug\net8.0\DecimalABinario.pdb
+C:\Users\Raquel Martínez\Documents\Programación Java\1. Ejercicios C# GitHub\Ejercicio 6\Nueva carpeta\obj\Debug\net8.0\DecimalABinario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel Martínez\Documents\Programación Java\1. Ejercicios C# GitHub\Ejercicio 6\Nueva carpeta\obj\Debug\net8.0\DecimalABinario.AssemblyInfoInputs.cache
+C:\Users\Raquel Martínez\Documents\Programación Java\1. Ejercicios C# GitHub\Ejercicio 6\Nueva carpeta\obj\Debug\net8.0\DecimalABinario.AssemblyInfo.cs
+C:\Users\Raquel Martínez\Documents\Programación Java\1. Ejercicios C# GitHub\Ejercicio 6\Nueva carpeta\obj\Debug\net8.0\DecimalABinario.csproj.CoreCompileInputs.cache
+C:\Users\Raquel Martínez\Documents\Programación Java\1. Ejercicios C# GitHub\Ejercicio 6\Nueva carpeta\obj\Debug\net8.0\DecimalABinario.sourcelink.json
+C:\Users\Raquel Martínez\Documents\Programación Java\1. Ejercicios C# GitHub\Ejercicio 6\Nueva carpeta\obj\Debug\net8.0\DecimalABinario.dll
+C:\Users\Raquel Martínez\Documents\Programación Java\1. Ejercicios C# GitHub\Ejercicio 6\Nueva carpeta\obj\Debug\net8.0\refint\DecimalABinario.dll
+C:\Users\Raquel Martínez\Documents\Programación Java\1. Ejercicios C# GitHub\Ejercicio 6\Nueva carpeta\obj\Debug\net8.0\DecimalABinario.pdb
+C:\Users\Raquel Martínez\Documents\Programación Java\1. Ejercicios C# GitHub\Ejercicio 6\Nueva carpeta\obj\Debug\net8.0\DecimalABinario.genruntimeconfig.cache
+C:\Users\Raquel Martínez\Documents\Programación Java\1. Ejercicios C# GitHub\Ejercicio 6\Nueva carpeta\obj\Debug\net8.0\ref\DecimalABinario.dll

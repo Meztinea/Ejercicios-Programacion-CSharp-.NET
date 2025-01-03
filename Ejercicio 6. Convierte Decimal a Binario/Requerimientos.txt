@@ -1,0 +1,30 @@
+Programando la Matrix - Conversor Decimal a Binario
+
+Eres un desarrollador de la matrix y te han solicitado un módulo que permita ingresar un número en 
+sistema decimal y muestre su equivalente en binario, con la particularidad que la representación 
+debe ser gráfica, representando los dígitos del número convertido de forma vertical en un formato 
+de 5 x 4 y dibujado con el carácter %.
+
+1. Programa la funcionalidad para convertir un número decimal a binario aplicando divisiones 
+sucesivas.
+2. Muestra el resultado final al usuario de forma gráfica
+
+Ejemplo de ejecución:
+
+Entrada
+2
+
+Salida
+El número 2 es 10 es binario:
+
+ %
+ %
+ %
+ %
+ %
+
+%%%%
+%  %
+%  %
+%  %
+%%%%
