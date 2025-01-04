@@ -1,0 +1,92 @@
+Analizador de Secuencias de Proteínas en C#
+
+El Instituto de Biotecnología necesita tu ayuda para desarrollar una aplicación de consola en C# para 
+analizar de forma simplificada secuencias de aminoácidos. La aplicación proporcionará información básica 
+sobre la composición de la secuencia y algunos aspectos relevantes para su interpretación, como la 
+presencia de aminoácidos específicos o patrones comunes. El instituto te proporciona un código base que 
+encontrarás en la carpeta de trabajo de la unidad 3 con el nombre de aminoacidos.cs, mismo que deberás 
+completar utilizando métodos para satisfacer todos los requerimientos.
+
+Requerimientos:
+
+i. La aplicación deberá mostrar un mensaje de bienvenida y explicar que analizará secuencias de 
+aminoácidos para proporcionar información relevante.
+
+ii. Entrada de la Secuencia:
+	a. Solicitar al usuario que ingrese una secuencia de aminoácidos en formato de abreviaturas 
+	de tres letras (por ejemplo, "MET-VAL-GLY-MET"). Revisa el anexo de este documento 
+	para conocer los aminoácidos que pueden ser aceptados, en él encontrarás un diccionario 
+	con las características de cada aminoácido. La aplicación debe validar que se esté 
+	ingresando un aminoácido válido en la secuencia.
+
+iii. Análisis simplificado de la Secuencia:
+	a. Implementar un análisis básico para identificar patrones o características en la secuencia, 
+	como la presencia de aminoácidos cargados, polares o hidrofóbicos. Para ello, te basarás 
+	en el diccionario contenido en el anexo de este documento.
+
+	b. Proporciona las siguientes estadísticas simples, 
+		i. Conteo total de aminoácidos
+		ii. Proporción de aminoácidos específicos (Proporciones de cada tipo de aminoácido: 
+		    cargados, polares o hidrofóbicos). Por ejemplo:
+
+			Ingrese la secuencia de aminoácidos: ALA-SER-TYR-LYS-GLU
+
+			Salida Esperada:
+			Análisis de Secuencia:
+			Secuencia: ALA-SER-TYR-LYS-GLU
+
+			Total de Aminoácidos: 5
+			Proporciones:
+			Cargados: 2/5 (40%) - LYS, GLU
+			Polares: 2/5 (40%) - SER, TYR
+			No Polares: 1/5 (20%) – ALA
+
+	c. Realiza un análisis de patrones en las secuencias buscando secuencias señal y sitios de 
+	unión a ligando. Las secuencias señal son regiones específicas de aminoácidos que dirigen 
+	la proteína a su destino dentro o fuera de la célula. Los sitios de unión a ligando son 
+	regiones de la proteína que se unen a moléculas específicas (ligandos) como cofactores, 
+	sustratos o inhibidores. Para identificar estos dos patrones deberás considerar la siguiente 
+	información:
+
+		i. Patrón secuencias señal. -n-Ser-Arg-:
+		Donde:
+			-n-: Representa cualquier aminoácido en la posición N-terminal.
+			Ser: Indica la presencia de un aminoácido Serina (Ser) en la segunda 
+			posición.
+			Arg: Indica la presencia de un aminoácido Arginina (Arg) en la tercera 
+			posición.
+
+			Es decir, este patrón busca una secuencia de tres aminoácidos donde el primero es 
+			cualquier aminoácido, el segundo es Serina y el tercero es Arginina. Si se encuentra 
+			este patrón se indicará que se ha encontrado una secuencia señal.
+
+		ii. Patrón sitios unión a ligando. -x-x-x-Gly-x-x-x-:
+
+			Donde:
+				-x-x-x-: Representa cualquier aminoácido en las primeras tres posiciones.
+				Gly: Indica la presencia de un aminoácido Glicina (Gly) en la cuarta posición.
+				-x-x-x-: Representa cualquier aminoácido en las últimas tres posiciones.
+			
+			Es decir, este patrón busca una secuencia de siete aminoácidos donde la Glicina 
+			se encuentra en la cuarta posición y las demás posiciones pueden ser cualquier 
+			aminoácido. Si se encuentra este patrón se indicará que se ha encontrado una 
+			secuencia de unión a ligando.
+	
+	d. Visualización de Resultados:
+		
+		i.Mostrar los resultados del análisis de la secuencia, proporcionando las estadísticas simples 
+		y el resultado de la búsqueda de patrones.
+
+	e. Programa un menú interactivo con las siguientes funciones
+
+		i. Agregar secuencia de aminoácidos
+		ii. Analizar secuencia
+		iii. Ver resultados
+		iv. Salir
+
+Nota importante: Para abordar el desafío propuesto, es imperativo emplear estructuras de control 
+secuenciales y selectivas. Queda prohibido el uso de métodos de la clase String con el propósito de 
+buscar subcadenas o aplicar técnicas de programación que no involucren directamente el uso de 
+estructuras de control. Se busca evaluar y fortalecer específicamente las habilidades en el manejo y 
+aplicación directa de estas estructuras en el desarrollo de la solución.
+

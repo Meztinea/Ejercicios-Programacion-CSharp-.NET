@@ -1,0 +1,14 @@
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos AC\AnalizadorDeAminoacidos\bin\Debug\net8.0\AnalizadorDeAminoacidos.exe
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos AC\AnalizadorDeAminoacidos\bin\Debug\net8.0\AnalizadorDeAminoacidos.deps.json
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos AC\AnalizadorDeAminoacidos\bin\Debug\net8.0\AnalizadorDeAminoacidos.runtimeconfig.json
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos AC\AnalizadorDeAminoacidos\bin\Debug\net8.0\AnalizadorDeAminoacidos.dll
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos AC\AnalizadorDeAminoacidos\bin\Debug\net8.0\AnalizadorDeAminoacidos.pdb
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos AC\AnalizadorDeAminoacidos\obj\Debug\net8.0\AnalizadorDeAminoacidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos AC\AnalizadorDeAminoacidos\obj\Debug\net8.0\AnalizadorDeAminoacidos.AssemblyInfoInputs.cache
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos AC\AnalizadorDeAminoacidos\obj\Debug\net8.0\AnalizadorDeAminoacidos.AssemblyInfo.cs
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos AC\AnalizadorDeAminoacidos\obj\Debug\net8.0\AnalizadorDeAminoacidos.csproj.CoreCompileInputs.cache
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos AC\AnalizadorDeAminoacidos\obj\Debug\net8.0\AnalizadorDeAminoacidos.dll
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos AC\AnalizadorDeAminoacidos\obj\Debug\net8.0\refint\AnalizadorDeAminoacidos.dll
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos AC\AnalizadorDeAminoacidos\obj\Debug\net8.0\AnalizadorDeAminoacidos.pdb
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos AC\AnalizadorDeAminoacidos\obj\Debug\net8.0\AnalizadorDeAminoacidos.genruntimeconfig.cache
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos AC\AnalizadorDeAminoacidos\obj\Debug\net8.0\ref\AnalizadorDeAminoacidos.dll
