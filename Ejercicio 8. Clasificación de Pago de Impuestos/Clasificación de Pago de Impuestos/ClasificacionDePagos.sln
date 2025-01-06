@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasificacionDePagos", "ClasificacionDePagos.csproj", "{C043C779-791D-4C2E-BD64-4BE01D85F029}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C043C779-791D-4C2E-BD64-4BE01D85F029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C043C779-791D-4C2E-BD64-4BE01D85F029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C043C779-791D-4C2E-BD64-4BE01D85F029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C043C779-791D-4C2E-BD64-4BE01D85F029}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B34B408-323E-4A8C-85AC-847F42178A32}
+	EndGlobalSection
+EndGlobal

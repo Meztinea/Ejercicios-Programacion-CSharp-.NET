@@ -1,0 +1,81 @@
+El gobierno de tu estado te ha encomendado desarrollar un programa para clasificar los pagos de 
+obligaciones patrimoniales y servicios, como el predial, agua y refrendos vehiculares.
+
+1. La intención es que los contribuyentes hagan sus pagos de forma pronta por lo que el 
+gobierno los incentiva con los siguientes descuentos:
+
+	a. Si el pago del predial y/agua se hace en enero, se le hará un 20% de descuento al 
+	contribuyente en el pago de estos servicios. Si el pago se hace en el mes de febrero 
+	solo se le descontará el 12%. De marzo en adelante no habrá descuento.
+
+	b. Si el pago de los vehículos se hace en el mes de enero, se le hará un 15 % de 
+	descuento en el pago de refrendos al contribuyente. Si el pago se hace en febrero solo 
+	se hará un 5% de descuento. Si el pago se hace de marzo a julio, sele cobrará un 
+	recargo del 3%, si el pago se hace de agosto a diciembre el recargo será del 7%.
+
+2. Revisa la siguiente tabla para el pago de obligaciones patrimoniales y servicios.
+
+PREDIAL			PAGO ANUAL
+----------------------------------
+URBANO			1,150
+FRACCIONAMIENTO		2,380
+RESIDENCIAL		3,645
+
+AGUA					PAGO ANUAL
+--------------------------------------------------
+SERVICIO URBANO				4,090
+SERVICIO EN FRACCIONAMIENTO		6,100
+SERVICIO EN RESIDENCIAL			8,792
+
+REFRENDO			PAGO ANUAL
+------------------------------------------
+VEHICULO PARTICULAR		942
+VEHICULO DE SERVICIO		1,360
+
+El programa debe de generar una pantalla de bienvenida, igual a la siguiente, para su creación deberás 
+utilizar estructuras de control cíclicas:
+
+***********************************************************************************************************************
+***********************************************************************************************************************
+*********************************************************************************************************************** 
+**********                                GOBIERNO DEL ESTADO DE MEXICO                                       *********
+*********                                                                                                     *********
+*********                                PAGOS DE OBLIGACIONES ESTATALES                                      *********
+*********                                                                                                     *********
+***********************************************************************************************************************
+***********************************************************************************************************************
+   *****************************************************************************************************************
+                                 BIENVENIDO A ESTE SISTEMA DE ADMINISTRACIÓN ESTATAL
+
+Posteriormente el programa mostrará las opciones a elegir para hacer el pago correspondiente:
+
+Como primer dato se pedirá el mes de pago del año 2024:
+
+En un segundo momento, se mostrará el siguiente menú para que el contribuyente elija
+
+Elije tu zona de vivienda:
+1. URBANO
+2. FRACCIONAMIENTO
+3. RESIDENCIAL
+
+Ahora elije tu(s) vehículo(s).
+1. VEHICULO PARTICULAR
+2. VEHICULO DE SERVICIO
+3. AMBOS (Esta opción será para el que tiene 1 de cada uno)
+4. 3 VEHICULOS O MAS.
+5. NO TENGO VEHICULOS
+
+Para este segundo menú en las primeras 3 opciones utilizarás las tablas de refrendo que se muestra 
+arriba, si el contribuyente elije la opción 4, que es 3 o más vehículos se le aplicará una tarifa única por 
+auto de $1000.00 pesos. (Si es este caso el usuario debe ingresar cuantos vehículos posee, recuerda 
+hacer una validación para que efectivamente el número ingresado sea 3 o mayor, si fuera menor, volver 
+a preguntar hasta que se cumpla la condición, utiliza una estructura cíclica).
+
+El programa deberá calcular el total a pagar del contribuyente de sus impuestos de acuerdo a las 
+elecciones que va generando de los menús y mostrarlo en pantalla al final, además deberá tener la 
+opción de preguntar al usuario si quiere volver a realizar otro cálculo o salir del programa.
+
+CONSIDERACIONES:
+• Haz una validación para los menús con la estructura cíclica de tu preferencia, (recomendamos 
+while o do-while), para que, si el usuario elige un numero diferente al de las opciones 
+presentadas, no haga nada y siga presentando el menú

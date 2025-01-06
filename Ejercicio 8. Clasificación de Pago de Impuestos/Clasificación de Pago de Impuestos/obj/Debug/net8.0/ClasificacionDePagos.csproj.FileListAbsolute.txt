@@ -1,0 +1,14 @@
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos EA\ClasificacionDePagos\bin\Debug\net8.0\ClasificacionDePagos.exe
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos EA\ClasificacionDePagos\bin\Debug\net8.0\ClasificacionDePagos.deps.json
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos EA\ClasificacionDePagos\bin\Debug\net8.0\ClasificacionDePagos.runtimeconfig.json
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos EA\ClasificacionDePagos\bin\Debug\net8.0\ClasificacionDePagos.dll
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos EA\ClasificacionDePagos\bin\Debug\net8.0\ClasificacionDePagos.pdb
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos EA\ClasificacionDePagos\obj\Debug\net8.0\ClasificacionDePagos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos EA\ClasificacionDePagos\obj\Debug\net8.0\ClasificacionDePagos.AssemblyInfoInputs.cache
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos EA\ClasificacionDePagos\obj\Debug\net8.0\ClasificacionDePagos.AssemblyInfo.cs
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos EA\ClasificacionDePagos\obj\Debug\net8.0\ClasificacionDePagos.csproj.CoreCompileInputs.cache
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos EA\ClasificacionDePagos\obj\Debug\net8.0\ClasificacionDePagos.dll
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos EA\ClasificacionDePagos\obj\Debug\net8.0\refint\ClasificacionDePagos.dll
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos EA\ClasificacionDePagos\obj\Debug\net8.0\ClasificacionDePagos.pdb
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos EA\ClasificacionDePagos\obj\Debug\net8.0\ClasificacionDePagos.genruntimeconfig.cache
+C:\Users\Raquel Martínez\Documents\1 - UnADM\Bloque\1. Programación Net 1\Unidad 3\_Archivos EA\ClasificacionDePagos\obj\Debug\net8.0\ref\ClasificacionDePagos.dll
