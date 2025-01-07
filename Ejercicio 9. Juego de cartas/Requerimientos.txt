@@ -1,0 +1,69 @@
+Juego de cartas
+
+La empresa Bandai pretende digitalizar su juego de cartas de one piece tcg, tú eres 
+el responsable de realizar este programa y le explicas al cliente que el primer paso en 
+el desarrollo será abstraer el concepto de una carta en una clase. Te has dado cuenta 
+de que existen varios tipos de cartas y le propones comenzar abstrayendo la carta del 
+líder del mazo.
+
+I. Programa una clase en C# donde abstraigas el concepto “CartaLider”.
+
+II. Declara los siguientes atributos y aplica el encapsulamiento utilizando los 
+modificadores de acceso necesarios convirtiéndolos en propiedades que
+permitan modificar los atributos mediante la utilización de las sentencias get y 
+set:
+
+	• Nombre: El nombre del Líder (por ejemplo, Monkey D. Luffy, Trafalgar 
+	Law).
+	• Color: Representa la afinidad o clase de la carta (por ejemplo, Rojo, 
+	Azul, Verde).
+	• Puntos de Vida: La cantidad de vida del Líder. Si llega a cero, el Líder 
+	es derrotado.
+	• Costo de Don: La cantidad de recursos necesarios para activar la 
+	carta.
+	• Habilidad: Una descripción de la habilidad especial de la carta.
+	• Efecto de Volteo: Un efecto especial que ocurre cuando la carta es 
+	volteada.
+	• Estado (Volteado o No Volteado): Un indicador de si la carta ha sido 
+	volteada durante la partida.
+
+III. Declara 3 atributos más (basándote en las imágenes) y aplica el 
+encapsulamiento utilizando los modificadores de acceso necesarios 
+convirtiéndolos en propiedades que permitan modificar los atributos mediante 
+la utilización de las sentencias get y set
+
+IV. Programa dos constructores para tu clase donde uno de ellos inicialice todos 
+los atributos de la carta.
+
+V. Programa los siguientes métodos:
+
+	• RecibirDaño(int cantidad): Simula que la carta recibe daño. Si 
+	  los puntos de vida llegan a cero, el jugador es notificado de que el 
+	  Líder ha sido derrotado.
+
+		▪ Restar la cantidad de daño de los puntos de vida.
+		▪ Si los puntos de vida son menores o iguales a cero, 
+		  ajustar los puntos de vida a cero y notificar la derrota 
+		  del Líder.
+
+		• ActivarHabilidad(): Imprime un mensaje que indica que la 
+		  habilidad del Líder se ha activado.
+		▪ Mostrar el nombre de la carta y la habilidad activada.
+		• Voltear(): Cambia el estado de la carta a "Volteado" y activa el 
+		  efecto especial asociado a ese cambio.
+		▪ Verificar si la carta no está ya volteada.
+		▪ Cambiar el estado a "Volteado".
+		▪ Mostrar el efecto de volteo.
+		• Enderezar(): Cambia el estado de la carta de vuelta a "No 
+		  Volteado".
+		▪ Verificar si la carta está en estado "Volteado".
+		▪ Cambiar el estado de vuelta a "No Volteado".
+		• MostrarInformacion(): Muestra todos los atributos de la carta en 
+		  consola.
+		▪ Mostrar los valores actuales de todos los atributos 
+		  del objeto.
+
+VI. Desde el método principal Main, demuestra la funcionalidad de la clase, 
+ejecutándola, creando al menos dos personajes y mostrando su 
+funcionamiento.
+

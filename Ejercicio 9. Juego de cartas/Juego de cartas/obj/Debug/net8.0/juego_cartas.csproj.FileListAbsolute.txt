@@ -1,0 +1,28 @@
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 9\Nueva carpeta\bin\Debug\net8.0\juego_cartas.exe
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 9\Nueva carpeta\bin\Debug\net8.0\juego_cartas.deps.json
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 9\Nueva carpeta\bin\Debug\net8.0\juego_cartas.runtimeconfig.json
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 9\Nueva carpeta\bin\Debug\net8.0\juego_cartas.dll
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 9\Nueva carpeta\bin\Debug\net8.0\juego_cartas.pdb
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 9\Nueva carpeta\obj\Debug\net8.0\juego_cartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 9\Nueva carpeta\obj\Debug\net8.0\juego_cartas.AssemblyInfoInputs.cache
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 9\Nueva carpeta\obj\Debug\net8.0\juego_cartas.AssemblyInfo.cs
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 9\Nueva carpeta\obj\Debug\net8.0\juego_cartas.csproj.CoreCompileInputs.cache
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 9\Nueva carpeta\obj\Debug\net8.0\juego_cartas.dll
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 9\Nueva carpeta\obj\Debug\net8.0\refint\juego_cartas.dll
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 9\Nueva carpeta\obj\Debug\net8.0\juego_cartas.pdb
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 9\Nueva carpeta\obj\Debug\net8.0\juego_cartas.genruntimeconfig.cache
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 9\Nueva carpeta\obj\Debug\net8.0\ref\juego_cartas.dll
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 9. Juego de cartas\Juego de cartas\bin\Debug\net8.0\juego_cartas.exe
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 9. Juego de cartas\Juego de cartas\bin\Debug\net8.0\juego_cartas.deps.json
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 9. Juego de cartas\Juego de cartas\bin\Debug\net8.0\juego_cartas.runtimeconfig.json
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 9. Juego de cartas\Juego de cartas\bin\Debug\net8.0\juego_cartas.dll
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 9. Juego de cartas\Juego de cartas\bin\Debug\net8.0\juego_cartas.pdb
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 9. Juego de cartas\Juego de cartas\obj\Debug\net8.0\juego_cartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 9. Juego de cartas\Juego de cartas\obj\Debug\net8.0\juego_cartas.AssemblyInfoInputs.cache
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 9. Juego de cartas\Juego de cartas\obj\Debug\net8.0\juego_cartas.AssemblyInfo.cs
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 9. Juego de cartas\Juego de cartas\obj\Debug\net8.0\juego_cartas.csproj.CoreCompileInputs.cache
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 9. Juego de cartas\Juego de cartas\obj\Debug\net8.0\juego_cartas.dll
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 9. Juego de cartas\Juego de cartas\obj\Debug\net8.0\refint\juego_cartas.dll
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 9. Juego de cartas\Juego de cartas\obj\Debug\net8.0\juego_cartas.pdb
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 9. Juego de cartas\Juego de cartas\obj\Debug\net8.0\juego_cartas.genruntimeconfig.cache
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 9. Juego de cartas\Juego de cartas\obj\Debug\net8.0\ref\juego_cartas.dll
