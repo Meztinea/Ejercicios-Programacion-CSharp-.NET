@@ -1,0 +1,14 @@
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 10\Sistema de Comparación de Genes\bin\Debug\net8.0\ComparadorGenes.exe
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 10\Sistema de Comparación de Genes\bin\Debug\net8.0\ComparadorGenes.deps.json
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 10\Sistema de Comparación de Genes\bin\Debug\net8.0\ComparadorGenes.runtimeconfig.json
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 10\Sistema de Comparación de Genes\bin\Debug\net8.0\ComparadorGenes.dll
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 10\Sistema de Comparación de Genes\bin\Debug\net8.0\ComparadorGenes.pdb
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 10\Sistema de Comparación de Genes\obj\Debug\net8.0\ComparadorGenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 10\Sistema de Comparación de Genes\obj\Debug\net8.0\ComparadorGenes.AssemblyInfoInputs.cache
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 10\Sistema de Comparación de Genes\obj\Debug\net8.0\ComparadorGenes.AssemblyInfo.cs
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 10\Sistema de Comparación de Genes\obj\Debug\net8.0\ComparadorGenes.csproj.CoreCompileInputs.cache
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 10\Sistema de Comparación de Genes\obj\Debug\net8.0\ComparadorGenes.dll
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 10\Sistema de Comparación de Genes\obj\Debug\net8.0\refint\ComparadorGenes.dll
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 10\Sistema de Comparación de Genes\obj\Debug\net8.0\ComparadorGenes.pdb
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 10\Sistema de Comparación de Genes\obj\Debug\net8.0\ComparadorGenes.genruntimeconfig.cache
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 10\Sistema de Comparación de Genes\obj\Debug\net8.0\ref\ComparadorGenes.dll

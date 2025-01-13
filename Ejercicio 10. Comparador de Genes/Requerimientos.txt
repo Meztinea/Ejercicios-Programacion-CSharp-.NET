@@ -1,0 +1,63 @@
+Comparación de genes para la Sociedad Mexicana de Biotecnología y Bioingeniería
+
+La Sociedad Mexicana de Biotecnología necesita un sistema de comparación de 
+genes y decide contratarte. Para elaborar el sistema, se te proporciona la siguiente 
+información.
+
+Requisitos del Sistema:
+
+I. Programa una Clase Gen, agrega sus constructores y destructor
+II. Programa los siguientes atributos con su propiedades.
+
+Atributos:
+
+• Nombre: Representa el nombre del gen.
+	o Tipo: string
+	o Ejemplo: "BRCA1"
+• Ubicación: Describe la ubicación del gen en el genoma (cromosoma, brazo, región).
+	o Tipo: string
+	o Ejemplo: "17q21.31"
+• Función: Describe la función biológica del gen.
+	o Tipo: string
+	o Ejemplo: "Reparación de ADN"
+• Secuencia: Representa la secuencia genética del gen como una cadena de caracteres (bases nucleótidas A, T, C, G).
+	o Tipo: string
+	o Ejemplo: "ATCGTACGGA"
+
+III. Programa los siguientes métodos:
+
+1. CompararGenes(Gen otroGen):
+
+Descripción: Compara la secuencia genética de dos genes para determinar si son idénticas o diferentes.
+	o Datos de entrada: Otro objeto de tipo Gen.
+	o Salida: Un mensaje que indique si las secuencias son iguales o cuántas bases difieren.
+	o Pasos:
+		▪ Verifica que ambos genes tengan la misma longitud.
+		▪ Compara las secuencias base por base.
+	▪ Cuenta las diferencias.
+	▪ Devuelve el resultado de la comparación.
+
+2. MutarSecuencia(char nuevaBase, int posicion):
+
+Descripción: Modifica una base específica en la secuencia del gen.
+	o Datos de entrada: La nueva base (A, T, C, G) y la posición en la secuencia.
+	o Salida: Mensaje indicando si la mutación fue exitosa, y muestra la secuencia modificada.
+	o Pasos:
+		▪ Verifica que la posición sea válida.
+		▪ Reemplaza la base en la posición indicada.
+		▪ Muestra la secuencia modificada.
+
+3. MostrarInformacion():
+
+Descripción: Muestra los detalles del gen: nombre, ubicación, función y secuencia.
+	o Datos de entrada: Ninguno.
+	o Salida: Muestra todos los atributos del gen.
+
+4. ClonarGen():
+
+Descripción: Crea y devuelve una copia exacta del gen.
+	o Datos de entrada: Ninguno.
+	o Salida: Un nuevo objeto de tipo Gen con los mismos atributos.
+
+IV. Crea un menú interactivo para que el usuario pueda utilizar la clase Gen 
+desde otra clase independiente.
