@@ -1,0 +1,125 @@
+Sistema de Gestión de Firewalls
+
+Descripción General:
+
+Los firewalls son herramientas esenciales para proteger redes y sistemas 
+informáticos de ataques externos y accesos no autorizados. Se requiere desarrollar 
+un sistema de gestión de firewalls que permita a los usuarios configurar, monitorizar 
+y gestionar diferentes tipos de firewalls para proteger sus infraestructuras de red.
+
+Has sido contratado por una empresa de seguridad cibernética para desarrollar un 
+programa de consola en C# que simule este sistema de gestión de firewalls, 
+centrándose en el uso de herencia, polimorfismo y sobrecarga de métodos para 
+representar diferentes tipos de firewalls, con funcionalidades avanzadas que 
+permitan mayor personalización y flexibilidad en la gestión.
+
+Instrucciones para el Desarrollo del Sistema
+
+Clase Base: Firewall
+
+Atributos:
+	1. Nombre (string): Nombre del firewall.
+	2. Tipo (string): Tipo de firewall (ej. "Hardware", "Software").
+	3. Estado (bool): Estado del firewall (activado/desactivado).
+	4. Reglas (string): Lista de reglas configuradas en el firewall separadas por comas.
+
+Métodos:
+	1. Activar(): Método virtual que activará el firewall, cambiando el estado a activado.
+	2. Desactivar(): Método virtual que desactivará el firewall, cambiando el estado a desactivado.
+	3. AgregarRegla(string regla): Método que agrega una nueva regla a la lista de reglas.
+	4. MostrarEstado(): Método virtual que mostrará el estado actual del firewall, incluyendo las reglas configuradas.
+
+Clases Derivadas (Herencia Directa de Firewall):
+
+FirewallHardware (Clase derivada)
+
+Atributos Adicionales:
+	1. Modelo (string): Modelo del firewall hardware.
+	2. IPPublica (string): Dirección IP pública asignada al firewall.
+
+Métodos Sobrecargados:
+	1. Activar(): Sobrecarga que activa el firewall hardware, mostrando un mensaje específico que 
+	incluye el nombre del modelo y la IP pública.
+	2. MostrarEstado(): Sobrecarga que muestra información específica del 
+	firewall hardware, incluyendo modelo, dirección IP pública, y todas las reglas configuradas
+
+FirewallSoftware (Clase derivada)
+
+Atributos Adicionales:
+	1. Version (string): Versión del software del firewall.
+	2. Licencia (string): Información sobre la licencia del software (puede incluir la fecha de expiración).
+
+Métodos Sobrecargados:
+	1. Activar(): Sobrecarga que activa el firewall software, mostrando un 
+	mensaje específico sobre la versión y la validez de la licencia.
+	2. MostrarEstado(): Sobrecarga que muestra información específica del 
+	firewall software, incluyendo la versión y la información de la licencia.
+
+Composición, relación “tiene un”:
+
+FirewallAvanzado ( tiene un FirewallHardware y FirewallSoftware)
+
+Atributos:
+	1. hardwareFirewall: Una instancia de la clase FirewallHardware.
+	2. softwareFirewall: Una instancia de la clase FirewallSoftware.
+	3. TecnologiasSoportadas (string): Una cadena para almacenar las 
+	tecnologías soportadas por el firewall avanzado separadas por comas.
+
+Constructor:
+	Inicializa las instancias de hardwareFirewall y softwareFirewall.
+	Inicializa la lista de tecnologías soportadas con valores por defecto o permite que se personalice.
+
+Métodos:
+	1. Activar(): Llama al método Activar() de hardwareFirewall y softwareFirewall 
+	para activar ambas componentes.
+	Muestra un mensaje indicando que el firewall avanzado se ha activado y 
+	lista las tecnologías soportadas.
+	2. MostrarEstado(): Llama al método MostrarEstado() de hardwareFirewall y 
+	softwareFirewall para mostrar el estado de cada componente.
+	Muestra la lista de tecnologías soportadas.
+
+Clases Derivadas Adicionales (Herencia Terciaria):
+
+FirewallInteligente (Derivada de FirewallAvanzado)
+
+Atributos Adicionales:
+	1. NivelDeInteligencia (int): Nivel de capacidad para detectar 
+	comportamientos anómalos (escala de 1 a 10).
+	2. LogActividades (string): Registro de actividades y decisiones tomadas por 
+	el firewall separadas por comas.
+
+Métodos Sobrecargados:
+	1. Activar(): Sobrecarga que activa el firewall inteligente, mostrando un 
+	mensaje específico sobre el nivel de inteligencia y el tipo de protección 
+	dinámica que ofrecerá.
+	2. MostrarEstado(): Sobrecarga que muestra información sobre las 
+	decisiones tomadas, la actividad reciente registrada y el nivel de 
+	inteligencia.
+	3. AnalizarTrafico(): Método específico para analizar patrones de tráfico en 
+	busca de comportamientos anómalos, solamente mostrará un mensaje de 
+	que ha sido ejecutado.
+
+Funcionalidades Adicionales
+
+Menú Interactivo
+
+Implementa un menú interactivo en una clase independiente que permita al 
+usuario:
+	1. Crear Instancias de Firewalls: Crear diferentes tipos de firewalls 
+	(Hardware, Software, Avanzado, Inteligente).
+	2. Activar/Desactivar Firewalls: Cambiar el estado del firewall entre activado 
+	y desactivado.
+	3. Agregar Reglas de Seguridad: Permitir al usuario agregar reglas al 
+	firewall seleccionado.
+	4. Mostrar Estado de los Firewalls: Mostrar el estado y la configuración 
+	actual de cualquier firewall, mostrando información relevante según el tipo.
+
+Como recomendación, para cada subclase, se debe definir un constructor que llame 
+al constructor padre con los datos heredados y que guarde los propios de cada 
+subclase. 
+
+Se deben declarar los datos miembros para toda la jerarquía de herencia y aplicar 
+el encapsulamiento utilizando los modificadores de acceso necesarios, 
+convirtiéndolos en propiedades que permitan acceder a los datos miembro mediante 
+las sentencias get y set correspondientes
+

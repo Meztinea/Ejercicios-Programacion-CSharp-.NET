@@ -1,0 +1,14 @@
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 11\Nueva carpeta\bin\Debug\net8.0\GestionadorFirewalls.exe
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 11\Nueva carpeta\bin\Debug\net8.0\GestionadorFirewalls.deps.json
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 11\Nueva carpeta\bin\Debug\net8.0\GestionadorFirewalls.runtimeconfig.json
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 11\Nueva carpeta\bin\Debug\net8.0\GestionadorFirewalls.dll
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 11\Nueva carpeta\bin\Debug\net8.0\GestionadorFirewalls.pdb
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 11\Nueva carpeta\obj\Debug\net8.0\GestionadorFirewalls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 11\Nueva carpeta\obj\Debug\net8.0\GestionadorFirewalls.AssemblyInfoInputs.cache
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 11\Nueva carpeta\obj\Debug\net8.0\GestionadorFirewalls.AssemblyInfo.cs
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 11\Nueva carpeta\obj\Debug\net8.0\GestionadorFirewalls.csproj.CoreCompileInputs.cache
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 11\Nueva carpeta\obj\Debug\net8.0\GestionadorFirewalls.dll
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 11\Nueva carpeta\obj\Debug\net8.0\refint\GestionadorFirewalls.dll
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 11\Nueva carpeta\obj\Debug\net8.0\GestionadorFirewalls.pdb
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 11\Nueva carpeta\obj\Debug\net8.0\GestionadorFirewalls.genruntimeconfig.cache
+C:\Users\Raquel Martínez\Documents\Programación Java\Para subir a Git Hub - Ejercicios C#\Ejercicio 11\Nueva carpeta\obj\Debug\net8.0\ref\GestionadorFirewalls.dll
