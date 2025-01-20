@@ -1,0 +1,115 @@
+Sistema de Cifrado de Mensajes
+
+La comunicación segura es crucial en la era digital. Para proteger la privacidad de 
+los usuarios, se requiere desarrollar un sistema de cifrado de mensajes que aplique 
+distintos métodos de cifrado. 
+
+La agencia de seguridad nacional necesita tu ayuda y te contrata para desarrollar 
+un programa de consola en C# para representar diversos tipos de cifrado, que van 
+desde cifrados básicos hasta algoritmos más avanzados como AES (Advanced 
+Encryption Standard).
+
+Instrucciones para el Desarrollo del programa
+
+Clase Base: Cifrado
+
+Atributos:
+	1. MensajeOriginal (string): El mensaje a cifrar.
+		o Valores válidos: Cualquier texto que se desee proteger.
+Métodos:
+	1. Cifrar(): Método virtual que se sobreescribirá en clases derivadas para 
+	aplicar diferentes técnicas de cifrado.
+	2. Descifrar(): Método virtual que también se especializará en cada clase 
+	derivada para descifrar los mensajes.
+
+Clases Derivadas del Cifrado (Herencia directa)
+
+CifradoBasico (Clase derivada de Cifrado)
+
+Métodos:
+	1. Cifrar():
+		o Funcionalidad básica: Se realiza un cifrado simple de reemplazo de caracteres.
+		o Pista: Utiliza funciones de la biblioteca string, como Replace(), para 
+		reemplazar letras. Por ejemplo, reemplaza la letra 'a' con 'z', la letra 
+		'e' con 'x', etc.
+
+	2. Descifrar():
+		o Funcionalidad básica: Realiza el proceso inverso del método Cifrar().
+		o Pista: Utiliza nuevamente Replace() para regresar al mensaje original.
+
+Métodos Sobrecargados:
+
+	3. Cifrar(int nivel):
+		o En este método sobrecargado, el parámetro nivel determina cuántas 
+		veces se aplicará el cifrado básico al mensaje.
+		o Si nivel es mayor a 1, se repetirá el proceso de cifrado para hacer 
+		más seguro el mensaje.
+
+Clases Derivadas Adicionales (Herencia secundaria)
+
+CifradoPorDesplazamiento (Clase derivada de CifradoBasico)
+
+Atributos Adicionales:
+	1. Desplazamiento (int): Número de posiciones que se desplazarán las letras 
+	en el alfabeto.
+		o Valores válidos: Un valor entero entre 1 y 25.
+
+Métodos Sobrecargados:
+	1. Cifrar():
+		o Utiliza un cifrado tipo César, desplazando cada carácter alfabético en 
+		el alfabeto por el número indicado en Desplazamiento.
+		o Pista: Utiliza funciones como char.IsLetter() para verificar si un 
+		carácter es una letra, y operadores aritméticos para desplazar los 
+		caracteres.
+
+	2. Descifrar():
+		o Realiza el proceso inverso del método Cifrar(), desplazando los 
+		caracteres en sentido contrario.
+
+CifradoAES (Clase derivada de Cifrado)
+
+Atributos Adicionales:
+	1. Clave (string): Clave para cifrar y descifrar el mensaje.
+		o Valores válidos: La clave debe tener una longitud adecuada para ser 
+		utilizada en el algoritmo AES (p. ej., 16 caracteres para AES-128).
+
+Métodos Sobrecargados:
+	1. Cifrar():
+		o Implementa el cifrado AES para proteger el mensaje.
+		o Pista: Utiliza clases de la biblioteca System.Security.Cryptography
+		como Aes, ICryptoTransform, y MemoryStream para realizar el 
+		cifrado.
+
+	2. Descifrar():
+		o Implementa el descifrado utilizando la misma clave.
+		o Pista: Utiliza clases similares a las del método Cifrar() pero 
+		invirtiendo el proceso.
+
+Clases Derivadas Adicionales (Herencia terciaria)
+
+CifradoDoble (Clase derivada de CifradoAES)
+
+Atributos Adicionales:
+	1. ClaveSecundaria (string): Clave adicional para aplicar un doble cifrado.
+		o Valores válidos: Debe tener la misma longitud que la primera clave.
+
+Métodos Sobrecargados:
+
+	1. Cifrar<T>(T mensaje):
+		o Se usa un tipo genérico para permitir que el mensaje a cifrar pueda 
+		ser de distintos tipos (p. ej., string, byte[]).
+		o Si el mensaje es una cadena (string), se aplica el método de cifrado 
+		tal como se haría normalmente.
+		o Si el mensaje es de tipo byte[], el método lo cifra directamente 
+		utilizando AES sin necesidad de convertirlo a una cadena.
+
+2. Descifrar():
+		o Realiza el proceso inverso del método Cifrar(), descifrando primero 
+		con la clave secundaria y luego con la principal.
+
+Interacción del Usuario
+
+Crea un menú interactivo en una clase independiente que permita a los usuarios 
+seleccionar entre los diferentes tipos de cifrado: básico, desplazamiento, AES o 
+doble cifrado. El menú debe permitir la entrada del mensaje, el desplazamiento (si 
+aplica), y la clave para AES.
