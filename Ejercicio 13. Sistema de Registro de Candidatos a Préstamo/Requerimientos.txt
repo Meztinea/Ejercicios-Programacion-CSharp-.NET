@@ -1,0 +1,59 @@
+Sistema de registro de candidatos a préstamo
+
+La oficina de préstamos El Porvenir ofrece préstamos de dinero en efectivo y requiere el 
+diseño de un sistema en C#, modo consola, para gestionar la captura de información de los 
+solicitantes que cumplan con los requisitos establecidos para la asignación de préstamos.
+
+El formulario del sistema debe capturar los siguientes campos, cada uno con las 
+restricciones indicadas:
+
+1. Nombre completo del solicitante: No debe contener números.
+2. Correo electrónico: Debe incluir el carácter @ y un dominio válido (Gmail, Outlook, 
+Yahoo, iCloud o HubSpot).
+3. Teléfono: No debe contener guiones ni letras.
+4. Lugar de residencia: El solicitante debe ser habitante de la Ciudad de México.
+5. Edad del solicitante: Debe estar entre 18 y 64 años. Si el solicitante supera los 64 
+años, deberá proporcionar el nombre completo de dos avales.
+6. Ingreso del solicitante: Para ser candidato, debe tener un ingreso de al menos dos 
+veces el salario mínimo diario, pero no superior a cinco veces este monto. El salario 
+mínimo se estima en 250 pesos mexicanos.
+
+Para garantizar que cada campo cumpla con las restricciones, se deben crear las siguientes 
+excepciones personalizadas:
+
+• NombreCompletoException
+• CorreoElectronicoException
+• NumeroTelException
+• LugarResidenciaException
+• EdadSolicitanteException
+• IngresoSolicitanteException
+
+Cada clase de excepción debe contener los métodos necesarios para validar las 
+restricciones, de manera que el programa principal realice la menor cantidad de 
+validaciones posibles. Además, cada clase de excepción debe contar con tres 
+constructores:
+
+• Un constructor sin parámetros, que envía un mensaje explícito utilizando el 
+constructor base.
+• Un constructor que reciba un mensaje como parámetro.
+• Un constructor que reciba un mensaje y una excepción interna anidada como 
+parámetros.
+
+En el programa principal se debe implementar una bienvenida y un menú con las siguientes 
+opciones:
+
+1. Capturar los datos del solicitante: Se deberán validar todos los campos de 
+acuerdo con las reglas establecidas.
+	o Si algún dato no cumple los requisitos, se mostrarán los mensajes de error 
+	correspondientes programados en las excepciones, permitiendo al usuario 
+	corregir la información.
+	o Si todos los datos son correctos, se mostrará un mensaje confirmando que 
+	la solicitud de préstamo ha sido aceptada.
+
+2. Salir del sistema.
+
+Para el control de errores, se deben utilizar los tres bloques fundamentales de manejo de 
+excepciones: try, catch y finally. Cada instrucción try debe estar acompañada de los bloques 
+catch correspondientes a las excepciones personalizadas, así como de los bloques catch 
+necesarios para manejar excepciones del sistema (como FormatException, 
+ArithmeticException, etc.), cubriendo todas las posibles excepciones que puedan surgir.
